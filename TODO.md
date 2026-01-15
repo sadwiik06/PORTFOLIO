@@ -1,0 +1,4 @@
+- [ ] Update App.jsx to replace react-transition-group with framer-motion (AnimatePresence and motion)
+- [ ] Remove react-transition-group from package.json dependencies
+- [ ] Update or remove transition CSS in App.css since framer-motion handles animations
+- [ ] Test the application to ensure transitions work correctly
