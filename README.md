@@ -1,7 +1,9 @@
 Sai Sadwiik - Minimalist Portfolio 🌟
+
 A clean, elegant portfolio built with React featuring smooth navigation and minimalist design principles.
 
 Tech Stack
+
 React - Frontend framework
 
 React Router - Navigation and routing
@@ -9,6 +11,7 @@ React Router - Navigation and routing
 CSS3 - Custom styling with modern features
 
 🎯 Key Pages
+
 1. Hero (/)
 Personal introduction with profile image
 
