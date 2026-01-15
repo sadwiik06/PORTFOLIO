@@ -2,6 +2,8 @@ Sai Sadwiik - Minimalist Portfolio 🌟
 
 A clean, elegant portfolio built with React featuring smooth navigation and minimalist design principles.
 
+LIVE DEMO: https://sadwiikportfolio.vercel.app/
+
 **Tech Stack**
 
 React - Frontend framework
